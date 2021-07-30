@@ -1,0 +1,11 @@
+{
+  "name": "selenum-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial selenum with webdriver",
+  "main": "index.js",
+  "author": "Thuancafe",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
